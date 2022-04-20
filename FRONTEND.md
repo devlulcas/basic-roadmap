@@ -1,22 +1,9 @@
-![HTML](https://img.shields.io/static/v1?label=HTML&labelColor=FD7903&message=%20&color=FD2D2D&logo=HTML5&logoColor=f1f2da&style=for-the-badge)
-![CSS](https://img.shields.io/static/v1?label=CSS&labelColor=5328CE&message=%20&color=FD2D2D&logo=CSS3&logoColor=f1f2da&style=for-the-badge)
-![JAVASCRIPT](https://img.shields.io/static/v1?label=JAVASCRIPT&labelColor=FFD427&message=%20&color=FD2D2D&logo=JAVASCRIPT&logoColor=f1f2da&style=for-the-badge)
-# PLANO DE ESTUDOS
+## CONCEITOS WEB
 
-## Conceitos web
-
-- Como a web funciona
-- Arquitetura cliente-servidor
-- O que é HTTP
-- Estrutura de uma requisição HTTP
-- Estrutura de uma resposta HTTP
-- Cookies (na web)
 - Do que é feito um website
 - O que é HTML, CSS e JAVASCRIPT
-- Caminho relativo vs Caminho absoluto
 
-
-## HTML 
+## HTML
 
 - Estrutura de um documento HTML
 - Elementos básicos
@@ -28,6 +15,7 @@
 - Como fazer um bom HTML com significado e intenção explícita
 
 ## CSS
+
 - Como ligar um arquivo CSS a um arquivo HTML
 - Seletores CSS (elementos, classes e ids)
 - Box model
@@ -47,6 +35,4 @@
 - Operadores lógicos (!, ||, &&, ==, ===, !=, !==, ??)
 - Estruturas lógicas (if, else, switch, if ternário)
 - Valores truthy e falsy (valores que são passados automaticamente para booleano mesmo não sendo inicialmente booleanos. Ex: 0, '', [] -> false)
-- 
-
 - Funções (normais, anônimas, arrow function)
